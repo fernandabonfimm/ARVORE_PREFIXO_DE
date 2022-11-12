@@ -10,7 +10,7 @@ Barbara Diogo - Código: 2063853
 # Base do projeto:
 O projeto tem como intuito simular e realizar a compressão de arquivos, utilizando a estrutura de árvore binária, o projeto inteiramente é baseado nos powerpoints apresentado pelo professor e na teoria de arvóre de Huffman, link: https://en.wikipedia.org/wiki/Huffman_coding.
 
-Código do Github:
+Código do Github: https://github.com/fernandabonfimm/ARVORE_PREFIXO_DE
 
 # Como rodar o projeto?
 1° Para rodar o projeto você precisa instalar a extensão do Makefile em seu VSCode.
