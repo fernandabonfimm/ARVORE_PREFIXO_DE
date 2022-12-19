@@ -1,11 +1,5 @@
 # ARVORE PREFIXO
-Trabalho do 2° Bimestre do 4° Semestre de Ciência da Computação do Centro Universitário Barão de Mauá
-
-Este trabalho foi inteiramente criado e desenvolvido pelas alunas do 4° Semestre de Ciências da Computação
-
-# Alunas e Responsáveis:
-Fernanda Bonfim Santos - Código: 2069922
-Barbara Diogo - Código: 2063853
+Trabalho do 2° Bimestre do 4° Semestre de Ciência da Computação
 
 # Base do projeto:
 O projeto tem como intuito simular e realizar a compressão de arquivos, utilizando a estrutura de árvore binária, o projeto inteiramente é baseado nos powerpoints apresentado pelo professor e na teoria de arvóre de Huffman, link: https://en.wikipedia.org/wiki/Huffman_coding.
